@@ -1,11 +1,11 @@
-About r-onesamplemr
-===================
+About r-onesamplemr-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-onesamplemr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/remlapmot/OneSampleMR, https://remlapmot.github.io/OneSampleMR/
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-onesamplemr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Useful functions for one-sample (individual level data) Mendelian randomization and instrumental variable analyses. The package includes implementations of; the Sanderson and Windmeijer (2016) <doi:10.1016/j.jeconom.2015.06.004> conditional F-statistic, the multiplicative structural mean model Hernán and Robins (2006) <doi:10.1097/01.ede.0000222409.00878.37>, and two-stage predictor substitution and two-stage residual inclusion estimators explained by Terza et al. (2008) <doi:10.1016/j.jhealeco.2007.09.009>.
 
