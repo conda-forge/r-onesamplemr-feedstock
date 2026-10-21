@@ -1,4 +1,4 @@
-{% set version = "0.1.8" %}
+{% set version = "0.1.9" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/OneSampleMR_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/OneSampleMR/OneSampleMR_{{ version }}.tar.gz
-  sha256: 863cede75c8d28a1c8dfc9bbca4e1d473ba08d701f5d8e8c91423702427ebb07
+  sha256: 2538cd0bd7c9e8718a0289e67a47cfc019a69a0157084f51d04d70cc4d9df2ba
 
 build:
   number: 0
